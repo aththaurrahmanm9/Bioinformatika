@@ -1,0 +1,12 @@
+# File .txt
+*.txt
+
+# File .env
+.env
+
+# Folder (semua isinya)
+nama_folder/
+
+# File spesifik di dalam folder
+nama_folder/nama_file.txt
+nama_folder/nama_file.csv
